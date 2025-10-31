@@ -1,0 +1,7 @@
+torch
+torchvision
+datasets <= 3.6.0
+tqdm
+matplotlib
+jupyter
+numpy
